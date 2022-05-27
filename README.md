@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a Full Stack Developer who specialises in Frontend Development.
+I am a Full Stack Developer who specialises in Frontend Development. You can reach me at rishabhdubey020@gmail.com
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhd2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rishabhjdubey) 
